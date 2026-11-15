@@ -1,16 +1,49 @@
-## Hi there 👋
+# Jenson J
+### Computer Science Student | Aspiring Frontend Developer
 
-<!--
-**zacobzen07/zacobzen07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a Computer Science student at The American College, passionate about building websites, exploring new technologies, and creating digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- Currently pursuing B.Sc. Computer Science
+- Interested in Frontend Development
+- Learning and improving my programming skills
+- Interested in creative design and video editing
+- Always ready to learn new technologies
+
+### Technical Skills
+
+**Programming Languages**
+- Python
+- Java
+
+**Web Development**
+- HTML
+- CSS
+- JavaScript
+
+**Creative Tools**
+- Adobe Photoshop
+- Adobe Premiere Pro
+- Canva
+- CapCut
+
+### Projects
+
+**1. Smart AI Notes & Analyzer**
+- An AI-based academic notes management and analysis project.
+- Designed for students and staff to manage syllabus materials and ask questions.
+
+**2. Church Website**
+- A website project developed using HTML, CSS and JavaScript.
+
+### Connect With Me
+
+- GitHub: https://github.com/zacobzen07
+- LinkedIn: [Add your LinkedIn Profile URL]
+
+---
+
+*Always learning. Always building. Always improving.*
